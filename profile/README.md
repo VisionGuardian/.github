@@ -5,7 +5,7 @@
 <img
   width="100%"
   alt="Hero Banner"
-  src="profile/Images/Banners/Hero.jpg"
+  src="/profile/Images/Banners/Hero.jpg"
 />
 
 # 🌀 About
@@ -14,12 +14,12 @@
 
 This GitHub organization was created to showcase Team 11's project in Track 3 (machine learning track) of the MIT FutureMakers Summer 2023 Create-a-thon hosted by [SureStart](https://mysurestart.com) × [MIT RAISE](https://raise.mit.edu)! Our team is comprised of high school and undergraduate students from across the U.S. with a desire to make a strong impact in the world of AI/ML.
 
-| <img alt="Tameem" src="profile/Images/Members/Tameem.jpg"> | <img alt="Marco" src="profile/Images/Members/Marco.jpg"> | <img alt="Emily" src="profile/Images/Members/Emily.jpg"> |
+| <img alt="Tameem" src="/profile/Images/Members/Tameem.jpg"> | <img alt="Marco" src="/profile/Images/Members/Marco.jpg"> | <img alt="Emily" src="/profile/Images/Members/Emily.jpg"> |
 | :--------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
 |                         **Tameem**                         |                        **Marco**                         |                        **Emily**                         |
 |                          (Mentee)                          |                         (Mentee)                         |                         (Mentee)                         |
 
-| <img alt="Thomas" src="profile/Images/Members/Thomas.jpg"> | <img alt="Jiwoo" src="profile/Images/Members/Jiwoo.jpg"> | <img alt="Deahan" src="profile/Images/Members/Deahan.jpg"> |
+| <img alt="Thomas" src="/profile/Images/Members/Thomas.jpg"> | <img alt="Jiwoo" src="/profile/Images/Members/Jiwoo.jpg"> | <img alt="Deahan" src="/profile/Images/Members/Deahan.jpg"> |
 | :--------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: |
 |                         **Thomas**                         |                        **Jiwoo**                         |                         **Deahan**                         |
 |                          (Mentee)                          |                         (Mentee)                         |                          (Mentor)                          |
@@ -56,5 +56,5 @@ We plan to continue adding more robust features and developing more sophisticate
 <img
   width="100%"
   alt="Logo Banner"
-  src="profile/Images/Banners/Logo.jpg"
+  src="/profile/Images/Banners/Logo.jpg"
 />
